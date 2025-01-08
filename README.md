@@ -13,7 +13,7 @@
 
 [<img align="left" alt="IsaiahReed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
-[linkedin]: linkedin.com/in/isaiah-reed-0b7815181
+[linkedin]: https://linkedin.com/in/isaiah-reed-0b7815181
 <!--
 
 

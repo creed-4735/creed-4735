@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting Active Directory in Powershell](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Praciting Active Directory in Powershell](https://github.com/creed-4735/ActiveDirectoryLab/blob/main/README.md)
 <h2> Certifications </h2>
 <b>CompTia Network Plus</b> 
 -

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/isaiahreed01/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
 
@@ -10,7 +10,7 @@
 <b>CompTia Security Plus</b>
 
 <h2> 🤳 Connect with me:</h2>
-<a href="https://linkedin.com/isaiah-reed-0b7815181"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/isaiahreed01"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
 

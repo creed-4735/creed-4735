@@ -10,10 +10,8 @@
 <b>CompTia Security Plus</b>
 
 <h2> 🤳 Connect with me:</h2>
+<a href="https://linkedin.com/isaiah-reed-0b7815181"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[<img align="left" alt="IsaiahReed | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
-
-[linkedin]: https://linkedin.com/in/isaiah-reed-0b7815181
 <!--
 
 

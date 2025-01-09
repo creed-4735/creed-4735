@@ -52,7 +52,9 @@ My journey with computer systems has led me to develop a passion for cybersecuri
 
 
 <h2> 🤳 Connect with me:</h2>
-<a href="https://linkedin.com/isaiahreed01"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/isaiahreed01" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 <!--
 

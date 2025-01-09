@@ -46,7 +46,7 @@ My journey with computer systems has led me to develop a passion for cybersecuri
 </div>
 <h2> Certifications </h2>
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://imgur.com/a/solitaire-EzkbHpe"> <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> </a>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 

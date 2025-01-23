@@ -13,7 +13,6 @@ My journey with computer systems has led me to develop a passion for cybersecuri
   - [Praciting Active Directory in Powershell](https://github.com/creed-4735/ActiveDirectoryLab/blob/main/README.md)
  
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|

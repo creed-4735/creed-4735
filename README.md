@@ -25,7 +25,10 @@ My journey with computer systems has led me to develop a passion for cybersecuri
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-
+- VirtualBox
+- Kali Linux
+- Windows 10
+- Windows 11
 
 ### Network
 <div>
@@ -35,7 +38,7 @@ My journey with computer systems has led me to develop a passion for cybersecuri
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   
 </div>
 
 ### SIEM

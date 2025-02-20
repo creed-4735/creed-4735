@@ -1,4 +1,4 @@
-<h1> Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/isaiahreed01/">Cybersecurity Professional</a> </h1>
+<h1> Hi, I'm Isaiah! <br/> <a href="https://www.linkedin.com/in/isaiahreed01/">Information Technology Professional</a> </h1>
 <h2>Introduction</h2>
 
 I am an aspiring IT/ Cybersecurity professional with a profound interest in technology and a dedication to learning and solving complex problems.

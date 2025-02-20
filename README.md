@@ -8,9 +8,13 @@ I am an aspiring IT/ Cybersecurity professional with a profound interest in tech
 My journey with computer systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field!
 
 <h2>👨‍💻 Cybersecuirty Projects:</h2>
-- <b> Building a Home Lab</b>
+
+- <b>Building a Home Lab</b>
+
+  - [Simulating an Attack Using Metasploit](https://github.com/creed-4735/Building-a-Home-Lab.git)
 
 - <b>Active Directory Home Lab</b>
+
   - [Praciting Active Directory in Powershell](https://github.com/creed-4735/ActiveDirectoryLab/blob/main/README.md)
  
 ## Skills

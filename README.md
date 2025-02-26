@@ -7,7 +7,7 @@ I am an aspiring IT/ Cybersecurity professional with a profound interest in tech
 
 My journey with computer systems has led me to develop a passion for cybersecurity, and I am now eager to transition into this field!
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨🏾‍💻 Projects:</h2>   
 
 - <b>Building a Home Lab</b>
 
@@ -56,7 +56,7 @@ My journey with computer systems has led me to develop a passion for cybersecuri
 </div>
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🤳🏾 Connect with me:</h2>  
 <a href="https://www.linkedin.com/in/isaiahreed01" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>

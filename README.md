@@ -15,7 +15,7 @@ My journey with computer systems has led me to develop a passion for cybersecuri
 
 - <b>Active Directory Home Lab</b>
 
-  - [Praciting Active Directory](https://github.com/creed-4735/Practicing-Active-Directory.git)
+  - [Practicing Active Directory](https://github.com/creed-4735/Practicing-Active-Directory.git)
  
 ## Skills
 
